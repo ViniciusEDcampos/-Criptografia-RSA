@@ -1,6 +1,6 @@
 # 🔐 Criptografia RSA: Princípios e Funcionamento
 
-Este repositório contém uma explicação sobre os princípios matemáticos, funcionamento e aplicações práticas do algoritmo de Criptografia RSA.
+Este repositório contém uma explicação sobre os princípios matemáticos, funcionamento e aplicações práticas do algoritmo de Criptografia RSA, o material foi produzido em volta de uma atividade produzida em sala na faculdade.
 
 ## 1. O que é o RSA?
 
